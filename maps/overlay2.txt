@@ -1,0 +1,40 @@
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b2 b2  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b2 b2  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b2 b2  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b3 b3  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  r  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  t1 t2 b  b  p2 b  b  b  b  b  b  b  b  o1  y1  o1  b  b  cw cx b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  cw cx b  b  t3 t4 b  b  b  b  b  b  b  p1 b  t1 t2 b  r  b  b  b  cy cz b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  r  b  cy cz b  b  b  b  b  b  b  y1 b  r  b  b  b  t3 t4 b  b  b  p1 b  d1 b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  p1 b  a1 a2 b  b  b  p1 b  b  b  b  b  p1 b  b  b  b  b  b  b  r  b  b  d2 b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  p2 b  b  a3 a4 b  b  r  b  b  b  b  b  b  b  b  z  b  b  p2 b  b  b  b  b  b  b  b  g1 g2  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  t1 t2 b  b  b  b  b  b  b  b  b  b  b  p1 b  b  b  g2 g1 b  b  b  b  b 
+b  b  b  b  b  b  b  o1 b  b  b  b  b  b  b  b  t3 t4 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
+b  b  b  b  b  b  b  b  b  b  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  r  b  b  b  b  b  b  p2  b  b  b  b  b  
+b  b  b  b  b  b  b  b  b  b  r  b  b  b  r  b  b  b  r  b  b  b  r  b  b  b  p2 r  b  b  b  b  b  b  b  b  b  b  b  b  
+b  b  b  b  b  p2 r  r  r  r  r  b  b  b  r  b  b  b  r  b  b  c  r  c  b  b  b  r  b  b  z  z  b  a1 a2 b  b  b  b  b  
+b  b  b  b  b  b  r  b  b  b  p2 b  r  b  b  b  r  b  b  b  p2 b  r  b  p1 b  b  r  b  b  z z  b  a3 a4 b  b  b  b  b        
+b  b  b  b  b  b  r  b  b  b  b  b  r  b  b  b  r  b  b  b  b  b  r  b  b  b  b  r  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  r  p1 b  g2 g2 g2 g2 g2 g2 g2 g1 g1 g2 g2 g2 g2 g2 g2 g2 b  b  r  b  b  b  b  b  b  p1  b  b  b  b  b 
+b  b  b  b  b  b  r  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  b  r  b  b  g2 b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  r  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  p1 r  b  b  g2 b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  r  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  b  b  b  b  g2 b  b  cw cx b  b  b  b  b 
+b  b  b  b  b  b  r  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  b  b  b  b  g2 b  b  cy cz b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  b  b  b  b  g2 b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  g2 b  b  b  b  l2 l2 l2 l2 b  b  b  b  b  b  g2 g2 g2 g2 g2 g2 g2 b  b  b  b  b  b  b  b  b         
+b  b  b  b  g1 g1 g1 g1 g1 g1 b  b  b  b  l2 b  b  l2 s1 s2 s2 s2 s2 s2 s3 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  g1 g1 g1 g1 g1 g1 b  b  b  b  l2 b  b  l2 s1 s2 s2 s2 s2 s2 s3 b  b  b  b  b  b  b  b  o1 b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  g2 b  b  b  b  l2 l2 l2 l2 b  b  b  b  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  p2 b  d1 b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 y1 o1 y1 a1 a2 t1 t2 b  b  b  b  b  b  b  b 
+b  b  b  b  b  r  b  d2 b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 o1 y1 o1 a3 a4 t3 t4 b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  b  b  b  b  a1 a2 b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  p1 b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  b  b  b  b  a3 a4 b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  r  b  b  g2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  g2 b  b  b  a1 a2 t1 t2 a1 a2 b  b  b  b  b  b         
+b  b  b  b  b  b  b  b  b  g2 g2 g2 g2 g2 g2 g2 g1 g1 g2 g2 g2 g2 g2 g2 g2 b  b  b  a3 a4 t3 t4 a3 a4 b  b  b  b  b  b 
+b  b  b  b  b  r  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  z  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  r  b  p2 b  b  b  p1 b  b  b  b  b  b  b  b  b  b  p2 b  b  b  b  z  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  p2 b  b  b  b  b  b  b  b  b  b  p1 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b1 b1 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b2 b2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b2 b2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b 
+b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b2 b2 b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  b  
